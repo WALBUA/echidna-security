@@ -1,1 +1,1 @@
-# echidna-security
+# Echidna Security
